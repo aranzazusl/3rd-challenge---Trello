@@ -1,21 +1,21 @@
-##*GeeksHubs Academy - Bootcamp Front-End Developer*
+## *GeeksHubs Academy - Bootcamp Front-End Developer*
 
-#3rd Challenge – Trello clone
+# 3rd Challenge – Trello clone
 
 **✏️ Requirements**
 
--Trello clone
+- Trello clone
 
--Draggable lists and tasks
+- Draggable lists and tasks
 
--Deletable lists and tasks
+- Deletable lists and tasks
 
 **⚡ Technologies**
 
--React
+- React
 
--Git
+- Git
 
 **Author**
 
--Aranzazu Salguero Lemaur
+- Aranzazu Salguero Lemaur
