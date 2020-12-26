@@ -1,4 +1,4 @@
-*##GeeksHubs Academy - Bootcamp Front-End Developer*
+##*GeeksHubs Academy - Bootcamp Front-End Developer*
 #3rd Challenge – Trello clone
 **✏️ Requirements**
 -Trello clone
